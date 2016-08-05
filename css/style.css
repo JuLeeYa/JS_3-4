@@ -1,0 +1,44 @@
+body{
+	background-color: #f9f9f9;
+}
+
+
+.header{
+	text-align: center;
+}
+.container{
+	background-color: #fff;
+	-webkit-box-shadow: -2px 2px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: -2px 2px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: -2px 2px 5px 0px rgba(0,0,0,0.75);
+}
+h3{
+	margin-bottom: 30px;
+}
+
+li{
+	margin-left: 2px;
+	list-style: none;
+	font-size: 16px;
+	font-weight: normal;
+}
+label{
+	font-weight: 200;
+}
+input[type=checkbox]{
+	margin: 4px 18px 0;
+}
+.checkbox1,
+.checkbox2,
+.checkbox3{
+	margin-left: 65px;
+}
+.buttonBox{
+	text-align: center;
+}
+.btn-primary{
+
+	margin: 50px 0 ;
+	padding: 7px 15px;
+	border-radius: 10px;
+}
